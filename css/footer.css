@@ -63,8 +63,8 @@
   transition-property: background-color;
 }
 
-.team-socials-link:hover,
-.team-socials-link:focus {
+.footer-socials-link:hover,
+.footer-socials-link:focus {
   background-color: #404bbf;
 }
 
