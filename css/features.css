@@ -11,6 +11,13 @@
   flex-basis: 264px;
 }
 
+.features-icon {
+  border: 1px solid #8e8f99;
+  border-radius: 4px;
+  color: #f4f4fd;
+  margin-bottom: 8px;
+}
+
 .features-subtitle {
   margin-bottom: 8px;
   font-weight: 500;
