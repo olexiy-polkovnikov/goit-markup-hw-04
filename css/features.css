@@ -17,7 +17,10 @@
   color: #f4f4fd;
   margin-bottom: 8px;
   background-color: #f4f4fd;
-  padding: 24px 100px;
+  height: 112px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .features-icon {
