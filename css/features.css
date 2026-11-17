@@ -11,11 +11,18 @@
   flex-basis: 264px;
 }
 
-.features-icon {
+.fearutes-wrapper {
   border: 1px solid #8e8f99;
   border-radius: 4px;
   color: #f4f4fd;
   margin-bottom: 8px;
+  background-color: #f4f4fd;
+  padding: 24px 100px;
+}
+
+.features-icon {
+  color: #2E2F42;
+
 }
 
 .features-subtitle {
